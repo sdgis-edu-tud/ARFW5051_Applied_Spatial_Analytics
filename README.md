@@ -48,5 +48,11 @@ Course-related resources and outputs are archived on **Zenodo** for open access.
 They provide examples of how to properly share research materials and ensure that your spatial analysis is **transparent, citable, and reusable** by others.
 
 ---
+## 📬 Contact  
+
+For questions about the course or the materials, feel free to reach out to the teaching team:  
+📧 **[sdgis-BK@tudelft.nl](mailto:sdgis-BK@tudelft.nl)**
+
+---
 
 _This page is maintained by the ARFW0501 teaching team at TU Delft — Faculty of Architecture and the Built Environment._
