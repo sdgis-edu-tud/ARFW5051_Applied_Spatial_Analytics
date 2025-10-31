@@ -49,4 +49,4 @@ They provide examples of how to properly share research materials and ensure tha
 
 ---
 
-_This page is maintained by the Applied Spatial Analytics teaching team at TU Delft — Faculty of Architecture and the Built Environment._
+_This page is maintained by the ARFW0501 teaching team at TU Delft — Faculty of Architecture and the Built Environment._
