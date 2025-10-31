@@ -1,1 +1,1 @@
-# ARFW5051_Applied_Spatial_Analytics
+ARFW0501 Applied Spatial Analytics
